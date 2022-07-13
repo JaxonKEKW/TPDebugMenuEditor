@@ -8,6 +8,7 @@ Features
 - Lists all map select entries, including Display Names, Map Name, Room ID, Spawn ID, and the Actor Setup ID of the entry
 - Allows all entries to be changed or replaced (strings up to 64 bytes)
 - Writes the new menu file (with your changes) to the directory you run the program from
+- Light/Dark mode (light mode disabled atm)
 - stupid code
 
 Usage
