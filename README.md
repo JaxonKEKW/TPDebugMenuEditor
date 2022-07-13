@@ -1,2 +1,2 @@
 # TPDebugMenuEditor
- Editor for Twilight Princess' Debug Map Select
+ Editor for The Legend of Zelda: Twilight Princess Debug Map Select
