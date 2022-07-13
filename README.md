@@ -1,7 +1,7 @@
 # Twilight Princess Map Select Editor
 An editor for The Legend of Zelda: Twilight Princess Debug Map Select file (Menu1.dat) written in C# .NET 6.0. This tool makes it trivial to modify entries on the map select to your liking, including the display names, maps, rooms, spawnpoints, and actor setups. 
 
-This can easily be used to localize the entries since they are all in Japanese (and it's the original reason I wrote this tool).
+This can easily be used to localize the entries since they are all in Japanese (and it's the original reason I wrote this tool) or can be used to load unused actor and scene setups.
 
 Features
 -
