@@ -4,7 +4,24 @@ An editor for The Legend of Zelda: Twilight Princess Debug Map Select file (Menu
 This can easily be used to localize the entries since they are all in Japanese (and it's the original reason I wrote this tool).
 
 Features
+-
 - Lists all map select entries, including Display Names, Map Name, Room ID, Spawn ID, and the Actor Setup ID of the entry
 - Allows all entries to be changed or replaced (strings up to 64 bytes)
 - Writes the new menu file (with your changes) to the directory you run the program from
 - stupid code
+
+Usage
+-
+- [Get the stock Menu1.dat file if you don't have it](https://github.com/JaxonKEKW/TPDebugMenuEditor/raw/main/Menu1.dat)
+- Compile using Visual Studio 2022 or use binary in [Releases](https://github.com/JaxonKEKW/TPDebugMenuEditor/releases)
+- Done???
+
+Screenshots
+-
+- Fully translated Map Select
+>
+![Fully translated Map Select](/assets/ss2.png)
+
+- Image of the GUI
+>
+![Image of the GUI](/assets/ss1.png)
